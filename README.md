@@ -12,16 +12,14 @@ U NEED TO ADD RADIO AS A ITEM
 
 and make sure to put rp-radio in the server.cfg as well
 
-THIS IS FOR ESX USERS
+THIS IS FOR QB CORE USERS
 
 orginal mod: https://github.com/FrazzIe/rp-radio
-
-Recoder https://github.com/AvarianKnight/rp-radio
 
 # Credits
 
 - @Frazzle for mumble-voip (for which the concept came from)
-- AvarianKnight for rework the system
+- Tony Avacardo for rework the system
 
 # rp-radio
 All credits go to Frazzle for making this, this is just an adapted version for pma-voice.
